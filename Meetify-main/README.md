@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://socialify.git.ci/ashavijit/Meetify/image?font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="Meetify" width="640" height="320" />
-</div>
-<p align="center">
-  <h1 align="center">Meetify Documentation</h1>
-</p>
+>
 
 ## About The Project
 
@@ -142,12 +137,3 @@ git push -u origin <your_branch_name>
 **15.** Congrats!! you are done creating a pull request to this project. 
 
 **16.**  After this, the maintainers will review the PR and will merge it if it helps move the project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase. 
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-## Contributors
-
-<a href="https://github.com/ashavijit/Meetify/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ashavijit/Meetify" />
-</a>
