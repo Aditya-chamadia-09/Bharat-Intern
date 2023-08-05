@@ -7,12 +7,12 @@
 ### 3 cd backend (npm install to install dependencies) and node index.js to run back-end
   # Here are Some Glimps 
   ## Login Page
-  ![](https://github.com/askhan963/netflix-clone-mern/blob/main/login.png)
+  ![](https://github.com/Aditya-chamadia-09/Bharat-Intern/edit/main/netflix-clone-mern/blob/main/login.png)
   ## Signup Page 
-  ![](https://github.com/askhan963/netflix-clone-mern/blob/main/signup.png)
+  ![](https://github.com/Aditya-chamadia-09/Bharat-Intern/edit/main/netflix-clone-mern/blob/main/signup.png)
   ## Our Team 
-   ![](https://github.com/askhan963/netflix-clone-mern/blob/main/team.png)
+   ![](https://github.com/Aditya-chamadia-09/Bharat-Intern/edit/main/netflix-clone-mern/blob/main/team.png)
    ## Main Page 
-   ![](https://github.com/askhan963/netflix-clone-mern/blob/main/mainpage.png)
+   ![](https://github.com/Aditya-chamadia-09/Bharat-Intern/edit/main/netflix-clone-mern/blob/main/mainpage.png)
    ##  Main 
-   ![](https://github.com/askhan963/netflix-clone-mern/blob/main/main.png)
+   ![](https://github.com/Aditya-chamadia-09/Bharat-Intern/edit/main/netflix-clone-mern/blob/main/main.png)
